@@ -1,2 +1,5 @@
 # unitrree_motor_ctrl_simple
 对宇树的A1电机进行简单调控
+使用了官方那个支持20.04的SDK
+建立两个节点,motor_ctrl_20_node 和pub_action
+motor_ctrl 对电机进行相应控制,使用自定义消息类型,motor_rece 和unitree_motor_send
