@@ -1,0 +1,2 @@
+float64 motor1pos
+float64 motor2pos

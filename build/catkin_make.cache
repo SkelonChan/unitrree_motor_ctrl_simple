@@ -1,0 +1,2 @@
+motor_ctrl_20
+-DCATKIN_DEVEL_PREFIX=/home/skelon/unitree/devel -DCMAKE_INSTALL_PREFIX=/home/skelon/unitree/install -G Unix Makefiles

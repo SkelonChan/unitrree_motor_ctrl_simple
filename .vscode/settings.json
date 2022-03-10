@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/skelon/unitree/devel/lib/python3/dist-packages",
+        "/home/skelon/gps_imu/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/action_demo/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo7/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo6/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo002/devel/lib/python3/dist-packages",
+        "/home/skelon/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/skelon/unitree/devel/lib/python3/dist-packages",
+        "/home/skelon/gps_imu/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/action_demo/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo7/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo6/devel/lib/python3/dist-packages",
+        "/home/skelon/demo/demo002/devel/lib/python3/dist-packages",
+        "/home/skelon/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/skelon/unitree/devel/include/**",
+        "/home/skelon/gps_imu/devel/include/**",
+        "/home/skelon/demo/action_demo/devel/include/**",
+        "/home/skelon/demo/demo7/devel/include/**",
+        "/home/skelon/demo/demo6/devel/include/**",
+        "/home/skelon/demo/demo002/devel/include/**",
+        "/home/skelon/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/skelon/demo/action_demo/src/action_demo1/include/**",
+        "/home/skelon/demo/demo6/src/action_dmeo/include/**",
+        "/home/skelon/demo/demo3/src/api_demo/include/**",
+        "/home/skelon/demo/robot2/src/champ/champ/include/**",
+        "/home/skelon/demo/robot2/src/champ/champ_base/include/**",
+        "/home/skelon/demo/robot2/src/champ/champ_config/include/**",
+        "/home/skelon/demo/demo3/src/control_demo/include/**",
+        "/home/skelon/demo/demo4/src/fellow_turtle/include/**",
+        "/home/skelon/catkin_ws/src/helloworld/include/**",
+        "/home/skelon/demo/demo3/src/launch_demo/include/**",
+        "/home/skelon/demo/demo6/src/learn_joy/include/**",
+        "/home/skelon/catkin_ws/src/learning_parameter/include/**",
+        "/home/skelon/catkin_ws/src/learning_service/include/**",
+        "/home/skelon/catkin_ws/src/learning_tf/include/**",
+        "/home/skelon/catkin_ws/src/learning_topic/include/**",
+        "/home/skelon/demo/demo4/src/multy_tf_demo/include/**",
+        "/home/skelon/demo/demo002/src/para_demo/include/**",
+        "/home/skelon/demo/demo4/src/rosbag_demo/include/**",
+        "/home/skelon/demo/action_demo/src/rosserial/rosserial_server/include/**",
+        "/home/skelon/demo/action_demo/src/rosserial/rosserial_test/include/**",
+        "/home/skelon/demo/demo7/src/serial/include/**",
+        "/home/skelon/demo/demo7/src/smartcar/include/**",
+        "/home/skelon/demo/demo002/src/srv_demo/include/**",
+        "/home/skelon/demo/demo4/src/tfd_demo/include/**",
+        "/home/skelon/demo/demo4/src/tfs_demo/include/**",
+        "/home/skelon/unitree/src/unitree_ros_to_real/unitree_legged_real/include/**",
+        "/home/skelon/demo/demo6/src/xacro_urdf/include/**",
+        "/usr/include/**",
+        "/home/skelon/unitree/src/motor_ctrl_20/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
